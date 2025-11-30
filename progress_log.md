@@ -15,3 +15,7 @@ Built script that stores list of products, price and stock. Prints report of the
 ## Day 4
 
 Built a script using API call, can handle non-200 responses. If 200 is received, info is printed in json format
+
+## Day 5
+
+Built a script that loads a JSON file, both locally and from an API call, then merges these into a single variable and pretty prints them. Added handling for local file not found and API call failing
