@@ -19,3 +19,7 @@ Built a script using API call, can handle non-200 responses. If 200 is received,
 ## Day 5
 
 Built a script that loads a JSON file, both locally and from an API call, then merges these into a single variable and pretty prints them. Added handling for local file not found and API call failing
+
+## Day 6
+
+Built a script that utilises the CLI argparse. Been inconsistent because of real life training, that's no problem.:)
