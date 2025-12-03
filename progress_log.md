@@ -23,3 +23,19 @@ Built a script that loads a JSON file, both locally and from an API call, then m
 ## Day 6
 
 Built a script that utilises the CLI argparse. Been inconsistent because of real life training, that's no problem.:)
+
+## Day 7
+
+Refactor files and folders
+
+## --- Week 2 ---
+
+## Day 8
+
+Created a script that scrapes a webpage title:
+
+-   wrapped in function
+-   handles websites that timeout
+-   handles non-200 status codes
+-   handles webpages with no title tag
+-   removes tags from title and return
