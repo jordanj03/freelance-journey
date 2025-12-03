@@ -39,3 +39,14 @@ Created a script that scrapes a webpage title:
 -   handles non-200 status codes
 -   handles webpages with no title tag
 -   removes tags from title and return
+
+## Day 9
+
+Done the same day as day 8
+
+Modified the script to allow for use of find_all, refactored code to have the request in a function of its own
+
+-   gets all elements of specified tag
+-   removes all tags that do not contain text
+-   strips whitespace
+-   returns new list containing only stripped tags that contain text
