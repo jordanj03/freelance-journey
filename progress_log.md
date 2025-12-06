@@ -50,3 +50,11 @@ Modified the script to allow for use of find_all, refactored code to have the re
 -   removes all tags that do not contain text
 -   strips whitespace
 -   returns new list containing only stripped tags that contain text
+
+## Day 10
+
+Added some pagination
+
+-   doesn't work the best, but gets the job done
+-   can't be bothered to elaborate (basically chatgpt helped a lot lol.)
+-   i don't like pagination
